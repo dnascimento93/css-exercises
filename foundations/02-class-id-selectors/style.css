@@ -1,0 +1,18 @@
+.odd-elements {
+    background-color: rgba(204, 40, 81, 0.329);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#bigblue {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.bigger-text {
+    font-size: 24px;
+}
+
+#greenboi {
+    background-color: rgba(2, 199, 19, 0.432);
+    font-weight: 700;
+}
